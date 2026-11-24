@@ -12,3 +12,7 @@ The engine is a single-file negamax searcher. It runs iterative deepening from d
 python3 build.py        # pack src/engine.py into the self-extracting main.py
 python3 test_smoke.py   # run the 3-ply smoke test
 ```
+
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/sarivenia84-netizen/tiny-chess-1124/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/sarivenia84-netizen/tiny-chess-1124/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
